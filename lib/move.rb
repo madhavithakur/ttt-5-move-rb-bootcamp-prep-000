@@ -15,5 +15,5 @@ end
 
 def move(board, pos, char = 'x')
   board[0] = char
- # board[4] = "O"
+ board[4] = "O"
 end 
