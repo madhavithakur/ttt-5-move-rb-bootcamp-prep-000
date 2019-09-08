@@ -15,12 +15,12 @@ end
 
 def move(board, pos, char = 'x')
   board[0] = "X"
-  board[1] = "O"
-  board[2] = "X"
-  board[3] = "O"
-  board[4] = "X"
-  board[5] = "O"
-  board[6] = "X"
-  board[7] = "X"
-  board[8] = "O"
+  # board[1] = "O"
+  # board[2] = "X"
+  # board[3] = "O"
+  # board[4] = "X"
+  # board[5] = "O"
+  # board[6] = "X"
+  # board[7] = "X"
+  # board[8] = "O"
 end 
