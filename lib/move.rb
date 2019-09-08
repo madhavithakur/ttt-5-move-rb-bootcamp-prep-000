@@ -21,6 +21,6 @@ def move(board, pos, char = 'x')
   board[4] = "X"
   board[5] = "O"
   board[6] = "X"
-  board[7] = "O"
+  board[7] = "X"
   board[8] = "O"
 end 
